@@ -1,0 +1,18 @@
+# Arduino IDE ideiglenes és fordítási fájljai
+app/bin/
+build/
+*.hex
+*.elf
+*.eep
+*.lst
+*.sym
+*.map
+
+# Fejlesztői környezetek (VS Code, CLion) szemetei
+.vscode/
+.idea/
+.cmake/
+
+# Operációs rendszer fájlok
+.DS_Store
+Thumbs.db
